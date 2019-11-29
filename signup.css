@@ -21,7 +21,7 @@ body {
 
 .page-bg {
     flex: 4;
-    background: url(https://res.cloudinary.com/petrepan/image/upload/v1574989334/illustration_rv7ibn.png) center/cover no-repeat;
+    background: url('https://res.cloudinary.com/petrepan/image/upload/v1574989334/illustration_rv7ibn.png') center/cover no-repeat;
     width: 100%;
     height: 100vh;
 }
