@@ -197,6 +197,7 @@ body {
     height: 2px;
     background-color: #070762;
     margin: 5px;
+     z-index: 1000000000;
 }
 .burger{
     cursor: pointer;
